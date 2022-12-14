@@ -1,7 +1,7 @@
 This is a Rest API
 
 ## Getting Started
-After Pulling the app please run the following commands run the the api:
+After Pulling the repo please run the following commands run the the api:
 
 ```bash
 npm install
