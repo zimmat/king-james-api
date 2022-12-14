@@ -8,6 +8,13 @@ npm install
 npm run start
 ```
 
+# Authentication Credentials:
+
+```bash
+   email: newtest@test.com
+   password: test
+```
+
 ## DB 
 - I am using mysql and have included the db dump on this repo
 
