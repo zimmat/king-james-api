@@ -17,6 +17,7 @@ npm run start
 
 ## DB 
 - I am using mysql and have included the db dump on this repo
+- Create mysql DB called king-james and import the mysql dump
 
 # Routes 
 - For now the only route working from client is `get users` for all others please use postman
