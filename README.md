@@ -24,7 +24,7 @@ npm run start
 - auth will be `Bearer Token` 
 - `Token : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTEsImlhdCI6MTY3MDg0ODUxMn0._iAsFmLmxekvOYnA_xKbXjlm0I0M74au0W5JoITlyVg"`
 
-## Authoorization
+## Authorization
 The app has two users
 - Administrator : can view all users and add or update user
 - Customer: Can only view their information
